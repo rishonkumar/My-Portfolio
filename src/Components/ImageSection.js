@@ -56,7 +56,8 @@ const ImageSectionStyled = styled.div`
   .left-content {
     width: 90%;
     img {
-      width: 70%;
+      width: 80%;
+      ${"" /* height : 100% */}
       object-fit: cover;
     }
   }
