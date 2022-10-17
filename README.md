@@ -2,7 +2,7 @@
 
 [My Portfolio](https://rishon-portfolio.netlify.app/)
 
-# Open for suggestion
+<!-- # Open for suggestion -->
 
 # Tech Stack
 
