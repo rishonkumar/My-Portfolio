@@ -20,8 +20,8 @@ function HomePage() {
           {/* TODO: About me */}
           I'm a Assistant System Engineer at TCS. Currently I'm focused on
           building my Front-End Skills and improving my Data Structure and
-          Algorithms . I design and code beautifully simple things, and I love
-          what I do. I am also learning Back-End technology ExpressJS
+          Algorithms . I love problem solving. I am also learning Back-End
+          technology ExpressJS
         </h2>
         <div className="icons">
           <a
