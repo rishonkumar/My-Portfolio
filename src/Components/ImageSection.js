@@ -36,7 +36,7 @@ function ImageSection() {
         </div>
         {/* TODO: button */}
 
-        <a href="https://drive.google.com/file/d/1fB7TikKQS2oljudfAizP2TC0Ljd2em2Q/view?usp=sharing">
+        <a href="https://drive.google.com/file/d/17RNoORF6lzp6mK2VwPZmhJnQ5D6WRAgF/view?usp=sharing">
           <Button>DOWNLOAD RESUME</Button>
         </a>
       </div>

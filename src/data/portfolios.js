@@ -2,6 +2,7 @@ import css1 from "../img/portImages/spotify.png";
 import css2 from "../img/portImages/real-state.png";
 import css3 from "../img/portImages/QR.png";
 import css4 from "../img/portImages/expense.png";
+import css5 from "../img/portImages/TODO.png";
 
 // TODO: Project section
 const portfolios = [
@@ -24,6 +25,15 @@ const portfolios = [
     text: "App for people who are looking for room or people who want to rent their home",
   },
   {
+    id: 5,
+    category: "React",
+    image: css5,
+    link1: "https://github.com/rishonkumar/Modern-TODO-APP",
+    link2: "https://todo-app-rishon.netlify.app/",
+    title: "TODO APP",
+    text: "Basic CRUD functionalities are available for the Users",
+  },
+  {
     id: 3,
     category: "Javascript",
     image: css3,
@@ -32,6 +42,7 @@ const portfolios = [
     title: "QR Code Generator",
     text: "Create QR Code for any website you want",
   },
+
   {
     id: 4,
     category: "React",
